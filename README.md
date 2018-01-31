@@ -1,4 +1,4 @@
-# predict_eBay_sales
+# Predict eBay Sales
 Can you identify whether or not a car is going to sell on eBay? And if it is going to sell, can you predict how much it will sell for? Data collected via [`fleaBay`](https://github.com/CurtLH/fleaBay)
 
 - [**Inital Exploration:**](https://curtlh.github.io/predict_ebay_sales/1_inital_exploration.nb.html)
